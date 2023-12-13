@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+#container1{
+    border: 2px solid black;
+    height: 38px;
+    position: sticky;
+    top: 0px;
+    background-color: aqua;
+    color: black;
+    
+}
+
+#static1{
+    height: 500px;
+    width: 2000px;
+    position: static;
+    font-size: 20px;
+    
+    /* background: darkseagreen; */
+}
+
+#container2{
+    border: 2px solid black;
+    height: 38px;
+    position: sticky;
+    top: 0px;
+    background-color: aqua;
+    color: black;
+
+}
+
+#static2{
+    height: 500px;
+    width: 1500px;
+    position: static;
+    font-size: 20px;
+    /* background-color: darkseagreen; */
+}
+
+dd{
+    border: 2px solid lightgray;
+    background-color: rgb(208, 255, 0);
+    padding: 20px;
+
+}
